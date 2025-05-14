@@ -22,9 +22,4 @@ I'm down to connect with other devs, especially if you're also learning or just 
 
 When I’m not coding, I’m probably playing football, gaming, or just relaxing. I like keeping things fun and learning at my own pace — no pressure, just progress.
 
-## 📫 Let's Connect
-
-- Email:tadedeji840@gmail.com  
-- GitHub: [@timmyaded](https://github.com/timmyaded)
-
 Thanks for checking out my profile! 😄
