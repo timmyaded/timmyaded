@@ -8,13 +8,15 @@ I'm a 23-year-old from Nigeria learning web development. I've been at it for abo
 - Building projects to sharpen my frontend skills  
 - Planning to explore backend stuff soon  
 - Trying to make my code look cleaner and more responsive
+- Looking to collaborate and create exciting projects
 
 ## 🤝 Open to Collaborate
 
 I'm down to connect with other devs, especially if you're also learning or just enjoy making cool stuff. If you're working on something interesting or want to team up, feel free to reach out!
 
-- [Twitter](#)  
-- [LinkedIn](#)
+- [Twitter](https://twitter.com/timmyade13)  
+- [Linkedin](https://www.linkedin.com/in/timilehin-adedeji-a692251b2/)
+- [Email](mailto:tadedeji840@gmail.com)
 
 ## 🎮 Outside of Code
 
