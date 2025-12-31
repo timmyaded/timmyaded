@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Timilehin
 
-I'm a 23-year-old from Nigeria learning web development. I've been at it for about 6 months now — mostly focused on HTML, CSS, and JavaScript. I enjoy building fun little projects as I learn, like simple games and responsive websites.
+I'm a young Nigerian learning web development. I've been at it for over a year now — mostly focused on HTML, CSS, and JavaScript. I enjoy building fun little projects as I learn, like simple games and responsive websites.
 
 ## 💻 What I'm Up To
 
